@@ -21,14 +21,3 @@ Then see one of the examples in the "examples" folder.
 We have published auto-generated wrappers <a href="https://docs.blockchainapi.com/#section/SDKs-API-Wrappers">here</a>.
 
 We have not tested them. If you run into any issues, publish one <a href="https://github.com/BL0CK-X/theblockchainapi-wrappers/issues/new">here</a>.
-
-## Resources
-
-- Post feature requests to the issues tab this repo!
-- Check out the docs: https://docs.blockchainapi.com
-- Dashboard: https://dashboard.blockchainapi.com
-- Landing Page: https://blockchainapi.com
-- Discord: https://discord.gg/d49yzrZRAF
-- YouTube Tutorials: https://www.youtube.com/channel/UCtZh22T-0gjNlPi2FWeoRWg
-- Contact Page: https://dashboard.blockchainapi.com#contact
-- Pricing/Billing Page: https://dashboard.blockchainapi.com#billing
